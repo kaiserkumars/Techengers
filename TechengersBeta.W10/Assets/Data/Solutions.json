@@ -1,0 +1,16 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "SPOJ",
+    "Icon": "/Assets/DataImages/spoj-2.png",
+    "Target": "SPOJListPage",
+    "_id": "d54d84b3-b08d-4629-98c2-e1ff61292791"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "HackerRank",
+    "Icon": "/Assets/DataImages/hackerank-6.png",
+    "Target": "HackerRankListPage",
+    "_id": "760a9f20-126b-4af7-98f1-2e8998fbb996"
+  }
+]
